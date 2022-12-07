@@ -1,14 +1,1 @@
-[
-    {
-        "titulo":"Mirar el partido de Argentina",
-        "estado":"pendiente"
-    },
-    {
-        "titulo":"Repasar JS",
-        "estado":"en progreso"
-    },
-    {
-        "titulo":"Entregar la app de tareas",
-        "estado":"terminada"
-    }
-]
+[{"titulo":"Mirar el partido de Argentina","estado":"pendiente"},{"titulo":"Repasar JS","estado":"en progreso"},{"titulo":"Entregar la app de tareas","estado":"terminada"},{"titulo":"terminar el integrador de js","estado":"pendiente"}]
